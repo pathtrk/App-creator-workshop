@@ -17,9 +17,8 @@
 
 参加者の皆さんは、以下の内容を事前に確認されるようにしてください。
 
-1. ChatGPTの利用開始準備
-2. Pythonのインストール
-3. Visual Studio Codeのインストールとセットアップ (+ そこでのPythonコードの実行確認 )
+1. [ChatGPTの利用開始準備](docs/setup_chatgpt.md)
+2. [Python, Visual Studio Codeのインストールとセットアップ (+ 動作確認 )](docs/setup_vscode_and_python.md)
 
 ※ もし自宅でうまくセットアップできなくても心配しないでください。うまくいかなかったところを当日、ワークショップの講師やスタッフに伝えていただければ、その場でサポートします。
 
