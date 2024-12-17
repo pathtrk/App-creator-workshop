@@ -15,12 +15,26 @@
 
 ## 参加者事前準備
 
+<p>
+  <img src="https://github.com/user-attachments/assets/185db0b8-3f97-4ef3-a0ff-fe2072d45122" width="390">
+</p>
+
 参加者の皆さんは、以下の内容を事前に確認されるようにしてください。
 
 1. [ChatGPTの利用開始準備](docs/setup_chatgpt.md)
 2. [Python, Visual Studio Codeのインストールとセットアップ (+ 動作確認 )](docs/setup_vscode_and_python.md)
 
 ※ もし自宅でうまくセットアップできなくても心配しないでください。うまくいかなかったところを当日、ワークショップの講師やスタッフに伝えていただければ、その場でサポートします。
+
+## 基本的な使い方と実行例
+
+<p>
+  <img src="https://github.com/user-attachments/assets/9ea8d24c-ea5e-420f-aa5f-0b2a143d48a0" width="260">
+</p>
+
+[docs/basic_usage.md](docs/basic_usage.md)に、基本的な問いかけの例と全体の流れを、 [docs/maze_sample_prompt.md](docs/maze_sample_prompt.md)に簡単なゲームを作るための生成AIとの対話例を載せました。
+
+対話例に出てくるゲーム用コードの実行方法は、[src/maze/README.md](src/maze/README.md) を参照してください。
 
 ## ワークショップ運営チームへの問い合わせ
 
