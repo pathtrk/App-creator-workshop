@@ -44,5 +44,5 @@
 
 イベントや松本市でのデジタル人材育成についてのお問い合わせ
 - [松本市 DX推進本部](https://www.city.matsumoto.nagano.jp/form/detail.php?sec_sec1=5&lif_id=156234)
-
+- メールアドレス : digitalcity [at] city.matsumoto.lg.jp (メールの方が早く回答できる場合があります)
 
