@@ -32,9 +32,9 @@
   <img src="https://github.com/user-attachments/assets/9ea8d24c-ea5e-420f-aa5f-0b2a143d48a0" width="260">
 </p>
 
-[docs/basic_usage.md](docs/basic_usage.md)に、基本的な問いかけの例と全体の流れを、 [docs/maze_sample_prompt.md](docs/maze_sample_prompt.md)に簡単なゲームを作るための生成AIとの対話例を載せました。
+[基本的な問いかけの例と全体の流れ](docs/basic_usage.md)、[簡単なゲームを作るための生成AIとの対話例](docs/maze_sample_prompt.md)を参考資料として掲載しています。
 
-対話例に出てくるゲーム用コードの実行方法は、[src/maze/README.md](src/maze/README.md) を参照してください。
+対話例に出てくるゲーム用コードの実行方法は、[こちら](src/Maze/README.md)を参照してください。
 
 ## ワークショップ運営チームへの問い合わせ
 
