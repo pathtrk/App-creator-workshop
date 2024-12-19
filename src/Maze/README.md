@@ -84,13 +84,13 @@
    **Windows**
    ```powershell
    .venv\Scripts\activate
-   pip install pygame
+   python -m pip install pygame
    ```
 
    **Mac**
    ```bash
    source .venv/bin/activate
-   pip install pygame
+   python -m pip install pygame
    ```
 
 3. 生成AIが作った「pygame バージョンコード」を ``__main__.py`` という名前で、プロジェクト用フォルダに保存します
